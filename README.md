@@ -1,7 +1,7 @@
 # Hi, I'm fathy 👋
 
     I'm software engineer who is passionate about Java technologies like spring framework & Netflix-cloud
-    and try to imporve in micro-services and  bigdata stack (hadoop & spark & hive and etc)
+    and try to imporve in microservices and  bigdata stack (hadoop & spark & hive and etc)
 
 ## use the following technologies in my projects 
 - java 8
