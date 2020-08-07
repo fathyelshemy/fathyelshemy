@@ -1,8 +1,8 @@
 # Hi, I'm fathy 👋
 
-    I'm software engineer who is passionate about Java technologies like spring framework & Netflix-cloud  and try to learn bigdata (hadoop & spark & hive and etc)
-    impor
-    
+    I'm software engineer who is passionate about Java technologies like spring framework & Netflix-cloud
+    and try to learn bigdata (hadoop & spark & hive and etc)
+
 ## current position: 
 I am currently working as java developer at orange-labs egypt
 
