@@ -1,4 +1,5 @@
 # Hi, I'm fathy 👋
+[![email](Images/gmail-24.png)](mailto:fathyelshemy8@gmail.com) [![stackoverflow account](Images/stack-24.png)](https://stackoverflow.com/users/5138147/fathy-elshemy) [![LinkedIn account](Images/linkedin-24.png)](https://www.linkedin.com/in/fathyelshemy8) [![Medium account](Images/medium-24.png)](https://medium.com/@fathyelshemy8)
 
     I'm software engineer who is passionate about Java technologies like spring framework & Netflix-cloud
     and try to imporve in microservices and  bigdata stack (hadoop & spark & hive and etc)
@@ -13,12 +14,7 @@
 - vagrant
 
 
-## How to reach me:
- mail : fathyelshemy8@gmail.com
-
- [![stackoverflow account](../images/so-icone.png)](https://stackoverflow.com/users/5138147/fathy-elshemy)
-
- [here you are my updated resume](https://drive.google.com/file/d/1CnKMG97CVg0g9btOHo0r8bAMipe7PSfD/view?usp=sharing)   
+  
 
 
 you're welcome to take a look to my repos and resume and if you have comment, please send it, your comment is very apperiated. 
